@@ -1,1 +1,2 @@
 # Automatic-Image-to-Tactile-Format-Conversion
+The present report depicts an overall execution, performance and results produced by two machine learning models, namely the RGB model and the Channel-wise model. It provides an in-depth view on the results produced on the synthetically generated diverse data of 5 distinct kinds: horizontal bar charts, vertical bar charts, bezier curves, scatter plots and polygons. Furthermore, it discusses the technical details, setup and procedure of data generation, adding data diversity, training as well as testing on the data set.
